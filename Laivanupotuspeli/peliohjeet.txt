@@ -1,0 +1,16 @@
+Laivanupotuspeli - Peliohjeet
+
+Tervetuloa Laivanupotuspeliin! Tavoitteenasi on upottaa kaikki viisi piilotettua laivaa pelilaudalta.
+Sinulla on 10 yritystä. Pelilauta on 8 x 8 ruudukko ja laivat on piilotettu satunnaisesti laudalle.
+Ne eivät kuitenkaan sijaitse vierekkäin.
+
+Syötä pelilaudalla olevan ruudun sijainti antamalla rivi (1-8) ja sarake (A-H).
+
+Ruudun tila merkitään seuraavilla symboleilla:
+- ' ' (tyhjä): Ruutu, johon et ole vielä ampunut.
+- 'X': Ruutu, jossa on osuttu laivaan.
+- '-': Ruutu, johon on ammuttu, mutta siellä ei ollut laivaa.
+- 'o': Ruutu, jossa ei voi olla laivaa.
+
+Yritä upottaa kaikki laivat ennen kuin yrityksesi loppuvat.
+Onnea peliin!
